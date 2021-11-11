@@ -1,3 +1,3 @@
-# ia-bootcamp
+# ai-bootcamp
 
 :robot:
